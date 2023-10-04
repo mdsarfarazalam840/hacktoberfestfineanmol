@@ -2799,5 +2799,5 @@
 #### Name: [Md Sarfaraz Alam](https://github.com/mdsarfarazalam840)
 
 - Place: Bangalore, Karnataka, India
-- Bio: Cloud Associate
+- Bio: Cloud Associate and passionate about open source contribution
 - GitHub: [mdsarfarazalam840](https://github.com/mdsarfarazalam840)

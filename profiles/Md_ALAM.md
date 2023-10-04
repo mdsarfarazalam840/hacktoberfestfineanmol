@@ -27,7 +27,7 @@ Persuing M.Tech. CSE
 - Javascript
 - HTML, CSS, JQUERY
 - Microsoft Azure
-- PowerBI
+- Azure
 
 ### Profile Link
 
